@@ -3,3 +3,4 @@ Repositorio para pruebas de Git remoto
 Hola buenas tardes
 
 #Contenido adicional
+Cambios realizados en rama2
